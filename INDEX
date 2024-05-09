@@ -1,0 +1,18 @@
+adjust_target           Title Generate covariates' residuals
+clpm_gam_c              Title Nonlinear Cross Lag Analysis
+clpm_gam_r              Title Nonlinear Cross Lag Analysis:
+                        autoregression
+clpm_gamm4_c            Title Cross-lag analysis based on generalized
+                        additive mixture models
+clpm_gamm4_r            Title Cross-lag analysis based on generalized
+                        additive mixture models: autoregression
+clpm_poly_c             Title Nonlinear Cross Lag Analysis based on
+                        Polynomial linear regression
+clpm_poly_r             Title Nonlinear Cross Lag Analysis based on
+                        Polynomial linear regression: autoregression
+crlog_line              Title Linear Cross lagged analysis
+judge_line              Title Determine a linear relationship between x
+                        and y by Restricted Cubic Splines(RCS) and plot
+                        it
+test_data1              Data for the first time point used for testing
+test_data2              Data for the second time point used for testing

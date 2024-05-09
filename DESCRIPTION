@@ -1,0 +1,22 @@
+Package: crosslag
+Type: Package
+Title: Perform linear or nonlinear cross lag analysis
+Version: 0.1.0
+Author: 
+  person("Yaxin","Li",email="LYX010308@163.com",role=c("ayt","cre"))
+Maintainer: Yaxin <LYX010308@163.com>
+Description: The package can perform linear or nonlinear cross lag analysis.
+    This package contains three types of nonlinear cross lag analysis, as well as a function for determining linear relationships.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.3.1
+Depends: R (>= 2.10)
+Imports: gamm4 (>= 0.2.6), ggplot2 (>= 3.5.0), lavaan (>= 0.6.17), mgcv
+        (>= 1.9.1), rms (>= 6.8.0), ggpubr (>= 0.6.0), stats (>=
+        4.3.2), utils (>= 3.1.0)
+Suggests: testthat (>= 3.0.0)
+Config/testthat/edition: 3
+NeedsCompilation: no
+Packaged: 2024-05-07 08:57:30 UTC; lyx01
+Built: R 4.3.2; ; 2024-05-07 09:04:17 UTC; windows
